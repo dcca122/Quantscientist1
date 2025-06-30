@@ -10,6 +10,9 @@ This Streamlit application provides an interactive interface for running a simpl
 - Train a logistic regression model to predict next day returns
 - Backtest the resulting signals and display performance metrics
 - Visualize price series, signals, drawdowns and feature importances
+- Upload portfolio history to view cumulative returns, Sharpe ratio and
+  drawdowns
+- Scan tickers for upcoming earnings and display volatility metrics
 
 ## Usage
 
